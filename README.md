@@ -2,7 +2,7 @@
 redis非关系型数据库案例
 </br>——autumn2014
 </br>redis nosql
-# 提交程序——我的github123
+# 提交程序——我的github123456
 
 >git init
 >>git add files.txt
